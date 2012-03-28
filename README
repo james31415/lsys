@@ -1,0 +1,8 @@
+"F": draws forward
+"f": moves forward, but does not draw
+"+": turns the turtle to the right
+"-": turns the turtle to the left
+"[": pushes the current position and heading onto the stack
+"]": pops the current position and heading from the stack
+" ": does nothing
+
